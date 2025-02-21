@@ -12,11 +12,6 @@ limit = 150
 category = "cs.LG"
 title = "Machine Learning"
 
-#[[sources]]
-#limit = 150
-#category = "cs.MM"
-#title = "Multimedia" 
-
 [[sources]]
 limit = 150
 category = "cs.CL"
