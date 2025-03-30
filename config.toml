@@ -5,7 +5,12 @@ cache_url = "https://runboyuu.github.io/MyArxiv/cache.json"
 [[sources]]
 limit = 150
 category = "stat.ML"
-title = "Machine Learning Theory"
+title = "Statistical Machine Learning (Theory)"
+
+[[sources]]
+limit = 150
+category = "math.OC"
+title = "Optimization"
 
 [[sources]]
 limit = 150
